@@ -1,0 +1,26 @@
+id: I26C960FE
+default_language: en-us
+source: ''
+initial_creation_type: tmx
+imported: 2022-12-15 07:19:01.569777+00:00
+last_modified: 2022-12-15 07:19:01.569784+00:00
+source_metadata:
+  creationtool: InterText
+  creationtoolversion: '1.0'
+  datatype: PlainText
+  segtype: block
+  adminlang: en-us
+  srclang: bo
+  o-tmf: XML aligned text
+  eft-text-id: UT22084-062-007
+  eft-text-version: 1.1.5 2020
+  title: Toh_207-Strength_of_the_Elephant-v2
+bases:
+  BA34:
+    source_metadata: null
+    order: 1
+    base_file: BA34.txt
+    statistics: null
+copyright:
+  status: Unknown
+  notice: ''
